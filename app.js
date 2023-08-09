@@ -118,18 +118,18 @@
                                                 // ASSIGNMENT 05
             
                                                     // Q NO.01
-    //    var num= 3;
-    //         var num1= 5;
-    //         var num3= num+num1;
-    //         document.write (" sum of " + num +" "+ "and " + num1 +  " is" + " "  + num3)
-    //         var num= 3;
-    //         var num1= 5;
-    //         var num3= num*num1;
-    //         document.write (" </br>  sum of " + num +" "+ "Multiply " + num1 +  " is" + " "  + num3)
-    //         var num= 10;
-    //         var num1= 2;
-    //         var num3= num/num1;
-    //         document.write (" </br>  sum of " + num +" "+ "Divied " + num1 +  " is" + " "  + num3)
+       var num= 3;
+            var num1= 5;
+            var num3= num+num1;
+            document.write (" sum of " + num +" "+ "and " + num1 +  " is" + " "  + num3)
+            var num= 3;
+            var num1= 5;
+            var num3= num*num1;
+            document.write (" </br>  sum of " + num +" "+ "Multiply " + num1 +  " is" + " "  + num3)
+            var num= 10;
+            var num1= 2;
+            var num3= num/num1;
+            document.write (" </br>  sum of " + num +" "+ "Divied " + num1 +  " is" + " "  + num3)
 
                                                     
 
